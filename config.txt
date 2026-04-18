@@ -1,0 +1,9 @@
+# LearnIt Dart Project Configuration
+app_name = LearnIt
+version = 1.0.0
+environment = development
+port = 9000
+debug_mode = true
+max_connections = 100
+database_url = mongodb://localhost:27017/learnit
+timeout = 3000
