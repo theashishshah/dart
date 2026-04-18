@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Dart (game/complex_debug.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "game/complex_debug.dart"
+        },
+    ]
+}
