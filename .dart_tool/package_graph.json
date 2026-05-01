@@ -52,6 +52,15 @@
       "dependencies": []
     },
     {
+      "name": "intl",
+      "version": "0.20.2",
+      "dependencies": [
+        "clock",
+        "meta",
+        "path"
+      ]
+    },
+    {
       "name": "http",
       "version": "1.6.0",
       "dependencies": [
@@ -305,13 +314,18 @@
       ]
     },
     {
-      "name": "web",
-      "version": "1.1.1",
+      "name": "meta",
+      "version": "1.18.2",
       "dependencies": []
     },
     {
-      "name": "meta",
-      "version": "1.18.2",
+      "name": "clock",
+      "version": "1.1.2",
+      "dependencies": []
+    },
+    {
+      "name": "web",
+      "version": "1.1.1",
       "dependencies": []
     },
     {
@@ -450,20 +464,6 @@
         "meta",
         "path"
       ]
-    },
-    {
-      "name": "intl",
-      "version": "0.20.2",
-      "dependencies": [
-        "clock",
-        "meta",
-        "path"
-      ]
-    },
-    {
-      "name": "clock",
-      "version": "1.1.2",
-      "dependencies": []
     }
   ],
   "configVersion": 1
